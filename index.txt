@@ -1,2 +1,2 @@
 Git Experiment SEPM Lab
-chnges to test fetch and merge
+chnges to test fetch and the merge
